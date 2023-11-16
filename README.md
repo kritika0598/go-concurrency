@@ -26,3 +26,4 @@ It printed `done waiting, main exits` and did not print work func statement
 `cd benchmarks`
 `go test -bench=.`
 
+<img width="833" alt="Screenshot 2023-11-16 at 5 24 13 PM" src="https://github.com/kritika0598/go-concurrency/assets/30694412/7f18feb2-5835-4725-8e78-f8771a8be28f">
