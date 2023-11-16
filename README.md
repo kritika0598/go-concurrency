@@ -11,3 +11,7 @@ task 3 ran 1st as it has least amount of running time and then task1, task4, tas
 `go run fork-join/no-join-point/main.go`
 
 It printed `done waiting, main exits` and did not print work func statement
+
+## Code 3 (Wait group)
+`go run fork-join/wg-join-point/main.go`
+
