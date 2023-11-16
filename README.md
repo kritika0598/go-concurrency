@@ -21,3 +21,8 @@ It printed `done waiting, main exits` and did not print work func statement
 `go run fork-join/channel-join-point/main.go`
 
 <img width="603" alt="Screenshot 2023-11-16 at 11 29 46 AM" src="https://github.com/kritika0598/go-concurrency/assets/30694412/92666936-4f0b-4f48-9b63-b66af397af0d">
+
+## Run Benchmarks
+`cd benchmarks`
+`go test -bench=.`
+
