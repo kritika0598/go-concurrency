@@ -16,3 +16,6 @@ It printed `done waiting, main exits` and did not print work func statement
 `go run fork-join/wg-join-point/main.go`
 
 <img width="587" alt="Screenshot 2023-11-16 at 11 26 33 AM" src="https://github.com/kritika0598/go-concurrency/assets/30694412/dd72b16e-a588-4348-a326-81a7bbcb01f7">
+
+## Code 4 (Using Channels)
+`go run fork-join/channel-join-point/main.go`
