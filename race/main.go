@@ -15,7 +15,7 @@ func main() {
 	}()
 	go func() {
 		defer wg.Done()
-		count -= 15
+		count = 15
 	}()
 	go func() {
 		defer wg.Done()
